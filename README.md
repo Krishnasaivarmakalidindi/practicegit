@@ -1,0 +1,1 @@
+This repo is created for learning GitHub or experimenting with GitHub to know what things will be there and how we can utilize it in a proper way, like what are the basic commands we need to follow, so style of line all of this. This is the one fast commit we are going to do. 
